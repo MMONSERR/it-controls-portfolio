@@ -1,0 +1,67 @@
+# Service Payments Agenda – Preventive Control Design
+
+This initiative documents the design of a centralized payment agenda to manage service payments executed through automatic debit mechanisms.
+
+The solution was developed within the **Services Payments area**, focusing on improving predictability, control, and auditability of recurring payments.
+
+> This documentation is conceptual and does not include real invoices, providers, amounts, or financial institutions.
+
+---
+
+## Business Context
+
+Service payments executed via automatic debit were managed in a decentralized and reactive manner, limiting visibility over upcoming debits and increasing the risk of failed payments.
+
+---
+
+## Risk Addressed
+
+- Failed payments due to insufficient funds or limits  
+- Late or missed service payments  
+- Operational rework and service disruptions  
+- Lack of end-to-end traceability for audit and accounting purposes  
+
+---
+
+## Control Objective
+
+Ensure timely and complete payment of services through centralized planning, visibility of upcoming debits, and structured tracking.
+
+---
+
+## Control Design
+
+- Centralized registration of service invoices  
+- Mandatory attachment of supporting documentation  
+- Payment calendar with upcoming debit visibility  
+- Anticipation of funding needs  
+- Status tracking from invoice receipt to payment  
+
+---
+
+## Control Classification
+
+- **Control Type:** Preventive  
+- **Nature:** Application-based  
+- **Frequency:** Continuous  
+- **Owner Area:** Services Payments  
+
+---
+
+## Framework Alignment
+
+**COSO Components**
+- Control Activities  
+- Information & Communication  
+- Monitoring  
+
+**SOX Attributes**
+- Completeness  
+- Accuracy  
+- Timeliness  
+
+---
+
+## Audit & Evidence
+
+The control design supports full traceability from invoice receipt to payment execution, providing structured records and documentation suitable for internal control and audit reviews.
