@@ -1,0 +1,67 @@
+# Automated Monitoring of Pending Advances (SAP Concur)
+
+This initiative describes the design and implementation of an automated control to monitor and follow up on pending employee advances within a corporate expense management system.
+
+The solution was developed within the **Suppliers / Accounts Payable area**, leveraging SAP Concur as the source system.
+
+> This documentation is conceptual and does not include real data, users, amounts, or organization-specific details.
+
+---
+
+## Business Context
+
+Pending advances were previously monitored through manual reviews, spreadsheets, and individual follow-ups.  
+This approach was time-consuming, prone to human error, and lacked consistent traceability for audit purposes.
+
+---
+
+## Risk Addressed
+
+- Advances not followed up in a timely manner  
+- Manual errors in identifying responsible users or statuses  
+- Lack of evidence of follow-up actions  
+- Delays impacting financial close and internal controls  
+
+---
+
+## Control Objective
+
+Ensure timely detection and standardized follow-up of pending advances to strengthen control over advanced funds and improve auditability.
+
+---
+
+## Control Design
+
+- Automated identification of advances in pending status  
+- Consolidation of cases by responsible user  
+- Generation of standardized notification messages  
+- Centralized logging of executed follow-ups  
+
+---
+
+## Control Classification
+
+- **Control Type:** Automated  
+- **Nature:** Preventive / Detective  
+- **Frequency:** Periodic  
+- **Owner Area:** Suppliers / Accounts Payable  
+
+---
+
+## Framework Alignment
+
+**COSO Components**
+- Control Activities  
+- Information & Communication  
+- Monitoring  
+
+**SOX Attributes**
+- Existence  
+- Valuation  
+- Timeliness  
+
+---
+
+## Audit & Evidence
+
+The control generates auditable evidence, including execution logs and standardized communications, supporting internal control reviews and audit walkthroughs.
