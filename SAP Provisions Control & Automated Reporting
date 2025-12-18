@@ -1,0 +1,92 @@
+# SAP Provisions Control & Automated Reporting
+
+This project describes a control design focused on improving the accuracy, timeliness, and traceability of provisions through automation and standardized reporting.
+
+The initiative integrates SAP operational data with internal control files to reduce manual effort and strengthen internal controls.
+
+---
+
+## Business Context
+
+Provision controls relied heavily on manual data handling after extracting information from SAP systems.  
+This approach increased operational effort, introduced error risks, and limited traceability for audit and control purposes.
+
+The project aimed to standardize and automate the flow of SAP data into provision controls and reporting.
+
+---
+
+## Risk Addressed
+
+- Errors or omissions during manual data processing  
+- Delays in identifying pending or unmatched items  
+- Inconsistent reporting across users  
+- Weak audit trail supporting provision balances  
+
+---
+
+## Control Objective
+
+Ensure accurate, timely, and traceable control of provisions by automating data integration, standardizing reporting, and enabling auditable evidence generation.
+
+---
+
+## Control Design
+
+### SAP Data Integration
+- Integration of service and material-related SAP data
+- Automated processing to replace manual data manipulation
+- Standardized execution steps to ensure consistency
+
+### Provisions Reporting
+- Consolidated provision analysis
+- Automated generation of summary reports
+- Automated distribution through institutional communication channels
+
+---
+
+## Monitoring & Visualization
+
+The control design includes dashboards tailored to different audiences:
+
+- **Operational dashboards** for monthly follow-up and pending item management  
+- **Executive dashboards** for high-level financial visibility  
+
+This approach balances detailed operational control with executive-level reporting needs.
+
+---
+
+## Control Classification
+
+- **Control Type:** Automated / Semi-automated  
+- **Nature:** Preventive / Detective  
+- **Frequency:** Periodic  
+- **Owner Area:** Payments / Provisions  
+
+---
+
+## Framework Alignment
+
+**COSO Components**
+- Control Activities  
+- Information & Communication  
+- Monitoring  
+
+**SOX Attributes**
+- Completeness  
+- Accuracy  
+- Timeliness  
+
+---
+
+## Value Delivered
+
+- Reduced operational effort  
+- Lower error rates through automation  
+- Improved data consistency for follow-up actions  
+- Stronger audit trail supporting internal control reviews  
+
+---
+
+## Disclaimer
+
+This project is presented for professional portfolio purposes only and does not disclose confidential or organization-specific information.
