@@ -1,13 +1,13 @@
-#  IT Controls & Process Automation Portfolio
+# IT Controls & Process Automation Portfolio
 
-Portfolio de iniciativas de **automatización de procesos y controles internos**, diseñadas bajo el marco **COSO** y orientadas a la mitigación de **riesgos financieros (SOX)**.
+Portfolio de iniciativas de automatización de procesos y controles internos, diseñadas bajo el marco COSO y orientadas a la mitigación de riesgos financieros (SOX).
 
->  Este repositorio presenta los controles a nivel **conceptual y metodológico**.  
-> No contiene datos reales, información confidencial ni código productivo.
+Este repositorio presenta los controles a nivel conceptual y metodológico.  
+No contiene datos reales, información confidencial ni código productivo.
 
 ---
 
-##  Enfoque del Portfolio
+## Enfoque del Portfolio
 
 - Diseño de controles preventivos y detectivos  
 - Automatización de procesos manuales críticos  
@@ -17,75 +17,75 @@ Portfolio de iniciativas de **automatización de procesos y controles internos**
 
 ---
 
-##  Iniciativas Incluidas
+## Iniciativas Incluidas
 
-###  Automated Control – Pending Advances Monitoring
+### Automated Control – Pending Advances Monitoring
 
-**Tipo:** Control automatizado  
-**Naturaleza:** Preventivo / Detectivo  
-**Frecuencia:** Periódica  
+Tipo: Control automatizado  
+Naturaleza: Preventivo / Detectivo  
+Frecuencia: Periódica  
 
-**Riesgo Mitigado**
+Riesgo mitigado:
 - Falta de seguimiento oportuno de adelantos pendientes  
 - Errores u omisiones en reclamos  
 - Debilidad en el control de fondos anticipados  
 
-**Objetivo de Control**  
+Objetivo de control:  
 Asegurar la detección y gestión oportuna de adelantos pendientes.
 
-**Descripción del Control**
+Descripción del control:
 - Identificación automática de casos pendientes  
 - Consolidación por responsable  
 - Comunicación estandarizada  
 - Registro de evidencia  
 
-**Evidencia**
+Evidencia:
 - Logs de ejecución  
 - Registros de notificación  
 
-**COSO**
+COSO:
 - Control Activities  
 - Information & Communication  
 - Monitoring  
 
-**SOX**
+SOX:
 - Existence  
 - Valuation  
 - Timeliness  
 
 ---
 
-###  Preventive Control – Automated Payments Agenda
+### Preventive Control – Automated Payments Agenda
 
-**Tipo:** Control preventivo  
-**Naturaleza:** Aplicación centralizada  
-**Frecuencia:** Continua  
+Tipo: Control preventivo  
+Naturaleza: Aplicación centralizada  
+Frecuencia: Continua  
 
-**Riesgo Mitigado**
+Riesgo mitigado:
 - Pagos fallidos por falta de previsión  
 - Servicios no abonados en término  
 - Falta de trazabilidad  
 
-**Objetivo de Control**  
+Objetivo de control:  
 Garantizar pagos oportunos y completos.
 
-**Descripción del Control**
+Descripción del control:
 - Registro centralizado  
 - Planificación de vencimientos  
 - Anticipación de fondos  
 - Seguimiento end-to-end  
 
-**Evidencia**
+Evidencia:
 - Registros estructurados  
 - Documentación respaldatoria  
 - Reportes  
 
-**COSO**
+COSO:
 - Control Activities  
 - Information & Communication  
 - Monitoring  
 
-**SOX**
+SOX:
 - Completeness  
 - Accuracy  
 - Timeliness  
@@ -96,7 +96,7 @@ Garantizar pagos oportunos y completos.
 
 Riesgo → Objetivo de Control → Actividad de Control → Evidencia  
 
-Criterios:
+Criterios aplicados:
 - Automatización  
 - Re-ejecutabilidad  
 - Responsable definido  
@@ -104,6 +104,7 @@ Criterios:
 
 ---
 
-##  About
+## About
 
-Perfil orientado a **Control Interno, Auditoría IT y Automatización de Procesos**.
+Perfil orientado a Control Interno, Auditoría IT y Automatización de Procesos.
+
