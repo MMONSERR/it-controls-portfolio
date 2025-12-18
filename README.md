@@ -92,7 +92,7 @@ Garantizar pagos oportunos y completos.
 
 ---
 
-##  Metodología
+## Metodología
 
 Riesgo → Objetivo de Control → Actividad de Control → Evidencia  
 
@@ -104,6 +104,6 @@ Criterios:
 
 ---
 
-## 👤 About
+##  About
 
 Perfil orientado a **Control Interno, Auditoría IT y Automatización de Procesos**.
